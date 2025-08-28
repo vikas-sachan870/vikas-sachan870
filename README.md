@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Vikas Sachan  
 
-🚀 **Aspiring Data Scientist | MERN Developer | Data Enthusiast**  
+🚀 **Aspiring Data Scientist | Data Enthusiast**  
 🎯 Passionate about solving real-world problems with **Data & AI**  
 
 ---
