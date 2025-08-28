@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Vikas Sachan  
 
-🚀 **Aspiring Data Scientist | Data Enthusiast**  
+🚀 **Aspiring Data Scientist | Data Enthusiast  **  
 🎯 Passionate about solving real-world problems with **Data & AI**  
 
 ---
@@ -58,7 +58,6 @@
 **Specialties**
 - 📊 Data Analysis & Visualization  
 - 🤖 Machine Learning (Classification, Regression)  
-- 🕸 Web Scraping & Automation  
 - 🌐 MERN Stack Development  
 
 ---
