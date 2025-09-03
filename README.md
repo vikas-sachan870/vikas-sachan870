@@ -16,9 +16,11 @@
 ## 📌 Featured Projects
 
 ### 📊 [Brazilian E-Commerce Sales Analysis](https://github.com/vikas-sachan870/Brazilian-E-Commerce-Sales-Analysis)
-🔹 Analyzed Brazilian e-commerce sales data to identify trends, customer patterns, and delivery insights.
-🔹 Built an interactive Power BI dashboard showcasing revenue, orders, and customer metrics.
+🔹 Analyzed Brazilian e-commerce sales data to identify trends, customer patterns, and delivery insights. \
+🔹 Built an interactive Power BI dashboard showcasing revenue, orders, and customer metrics.\
 🔹 Cleaned & transformed raw data into actionable reports for business decisions.
+
+---
 
 ### 🏦 [Loan Default Risk Prediction System](https://github.com/vikas-sachan870/Loan-Default-Risk-Prediction-System)
 🔹 Predicts loan repayment vs default using **Logistic Regression** & **Random Forest**  
@@ -55,11 +57,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+!![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-!![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 **Specialties**
 - 📊 Data Analysis & Visualization  
