@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 About Me
-- 🎓 MCA Graduate | *  
+- 🎓 MCA Graduate
 - 📊 Exploring **Machine Learning, Data Analytics**  
 - 🌱 Aim: To build scalable **data-driven applications**  
 - ⚡ Fun Fact: I love exploring datasets as much as I enjoy building web apps!  
