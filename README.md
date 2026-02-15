@@ -1,13 +1,13 @@
 # 👋 Hey there! I'm Vikas Sachan  
 
-🚀 **Aspiring Data Scientist | Data Enthusiast**  
+🚀 **Data Analyst| Data Enthusiast**  
 🎯 Passionate about solving real-world problems with **Data & AI**  
 
 ---
 
 ## 🔥 About Me
-- 🎓 MCA Graduate | Currently learning **Data Science @ Masai School**  
-- 📊 Exploring **Machine Learning, Data Analytics, and Full-Stack Development**  
+- 🎓 MCA Graduate | *  
+- 📊 Exploring **Machine Learning, Data Analytics**  
 - 🌱 Aim: To build scalable **data-driven applications**  
 - ⚡ Fun Fact: I love exploring datasets as much as I enjoy building web apps!  
 
